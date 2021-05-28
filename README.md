@@ -9,5 +9,6 @@ Users can change variables in the green cells but must keep away from editing th
 
 By pressing the 'RunSimulation' button, the user can change the number of simulations and distributions inside the user form.
 
-After pressing the 'GO' button, please keep in mind that it will take some time to run 1000 simulations inside excel.
+After pressing the 'GO' button, please keep in mind that it will take some time to run 1000 simulations inside excel (around 10 min).
+
 So make sure to have a clean cup somewhere around you, or even better - go clean a cup and make yourself a cup of coffee!
