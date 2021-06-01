@@ -11,6 +11,6 @@ By pressing the 'RunSimulation' button, the user can change the number of simula
 
 After pressing the 'GO' button, please note that it will take some time to run 1000 simulations inside excel (around 10 min).
 
-So make sure to have a clean cup somewhere around you, or even better - go clean a cup and make yourself a cup of coffee (or a sandwich)!
+Make sure to have a clean cup somewhere around you, or even better - go clean a cup and make yourself a cup of coffee (or a sandwich)!
 
-Another thing to consider is that in the final result, there is a 5% error chance. So even though the simulation's outcome is not 100% accurate - it is still pretty accurate.
+Another thing to consider is that in the final result, there is a 5% error chance. Even though the simulation's outcome is not 100% accurate - it is still very much precise.
